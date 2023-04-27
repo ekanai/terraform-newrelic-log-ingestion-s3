@@ -1,0 +1,10 @@
+{
+  "automerge": true,
+  "extends": [
+    "config:base"
+  ],
+  "labels": [
+    "renovate"
+  ],
+  "rebaseWhen": "never"
+}
