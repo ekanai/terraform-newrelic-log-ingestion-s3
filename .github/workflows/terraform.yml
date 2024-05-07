@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Setup Terraform
-      uses: hashicorp/setup-terraform@v3.1.0
+      uses: hashicorp/setup-terraform@v3.1.1
 
     - name: Terraform Init
       id: init
